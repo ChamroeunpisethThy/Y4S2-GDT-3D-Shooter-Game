@@ -3,7 +3,7 @@
 **Completed All Videos 55 Hours Mid-term Assignment GAD G8, 
 <br /> Completed From "1. Watch Before You Start" to "20. Polish"**
 
-### How to display Main Menu UI: 
+### How to display Main Menu UI: (if it not display)
 ***-> GO to find Canvas in the SampleScene
 <br /> -> Select all Canvas file
 <br /> -> Click Check Mark at Top Right
