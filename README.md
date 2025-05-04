@@ -6,7 +6,8 @@
 ### How to display Main Menu UI: 
 ***-> GO to find Canvas in the SampleScene
 <br /> -> Select all Canvas file
-<br /> -> Click check mark at top right***
+<br /> -> Click Check Mark at Top Right
+<br /> -> Go to GameManager UnCheck Mark Quick Start***
 
 ### How to display SampleScence: (if it not display)
 ***-> Go to Asset folder
